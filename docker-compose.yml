@@ -1,4 +1,4 @@
-version: "3.8"
+eversion: "3.8"
 
 services:
   nginx:
